@@ -47,6 +47,6 @@ const Post = ({ post, setCurrentId }) => {
 
     </Card>
   );
-}
+};
 
 export default Post;
